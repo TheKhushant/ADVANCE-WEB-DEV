@@ -1,0 +1,2 @@
+    <h1 style="line-height: 500px; text-align: center; color:green;">FORM SUBMITTED SUCCESSSFULLY</h1>
+    <h4 style="line-height: 170px; text-align: center; color:green;">Now Go HOME and Enjoy Life</h4>
